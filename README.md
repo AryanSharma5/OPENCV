@@ -1,3 +1,3 @@
 # OPENCV
 
-The Repository contains some open-cv codes.
+The Repository contains some basic open-cv codes which will let you get started.
